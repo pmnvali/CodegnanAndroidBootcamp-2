@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InputControlesTest</string>
+
+    <string-array name="branches">
+        <item>Branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+
+</resources>
